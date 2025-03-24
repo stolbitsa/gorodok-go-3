@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>gorodok-go-3</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="gorodok-go-1"/>
   <readme>
-    <ru>b3df742fb6c9816f50db7aaf7d1e4f13b5222d63de2d7979f0e7d52ff34628bb</ru>
-    <en>356d9a76b15091cdfa0fc070d593f502b6edc27775ace960ae3ccff559b33a5c</en>
+    <ru>bda3ee6de34ea5553ed7ece913c6bd38d59c8a08a1722b8e4153440ac7438a4f</ru>
+    <en>d6708e8a24ba92c335846024856974d8211a6de9373c9e4f9ef0c5a67920d052</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
