@@ -4,7 +4,7 @@
 ## Версия для компьютера
 Версия для мобильных устройств: stolbitsa.com/wolskp/gorodok-go-3
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/3m9cdUaMiWU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/ND6SSqeLcK4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Оригинальный текст:
 
@@ -33,7 +33,7 @@
 ## Desktop version
 Mobile version:  stolbitsa.com/wolskp/gorodok-go-3
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/c404pFf6hjg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/Jn4LWBoyjnw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Lyrics:
 
